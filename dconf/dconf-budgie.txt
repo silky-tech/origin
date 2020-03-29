@@ -1,0 +1,2 @@
+dconf comes from arcolinux-budgie-dconf for consistency
+arcolinux-budgie will be used if more settings are needed
